@@ -1,3 +1,4 @@
 Name: Sina  
 Age: 43
 Favorite Color: Skyblue
+Favorite Food: Sushi
